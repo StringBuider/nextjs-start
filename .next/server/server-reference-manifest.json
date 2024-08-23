@@ -1,5 +1,78 @@
 {
-  "node": {},
+  "node": {
+    "8c1d82afe5e3166045f76f119234872181551cbe": {
+      "workers": {
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=!",
+        "app/login/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/invoices/create/page": "action-browser",
+        "app/dashboard/invoices/[id]/edit/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc",
+        "app/login/page": "action-browser"
+      }
+    },
+    "3df25112ee23021368ebd55665d392f337169342": {
+      "workers": {
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=!",
+        "app/login/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/invoices/create/page": "action-browser",
+        "app/dashboard/invoices/[id]/edit/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc",
+        "app/login/page": "action-browser"
+      }
+    },
+    "2561b94250c2f5a267acf2d3e08078e0cdfeded1": {
+      "workers": {
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "action-browser",
+        "app/dashboard/invoices/[id]/edit/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "f12f3717f814bbdfb34d3b9a124a6d4d8005b30c": {
+      "workers": {
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "action-browser",
+        "app/dashboard/invoices/[id]/edit/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "e386624b1ceb2c3e73880c7f777d9fcbd28e04e2": {
+      "workers": {
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22updateInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/(overview)/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/[id]/edit/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/customers/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_2wi7x33m63hszo5tu57o7fim7a/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FZhuanz%2FDesktop%2FMyProject%2FReactProject%2Fnextjs-start%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/(overview)/page": "rsc",
+        "app/dashboard/invoices/create/page": "rsc",
+        "app/dashboard/invoices/[id]/edit/page": "rsc",
+        "app/dashboard/customers/page": "rsc"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "mpV+izxU1o7z6GCvXsKANjlVcMZ9eaMjgutIhtOSqkY="
+  "encryptionKey": "oFU71Ki8Ljfu1p3eW8c93DMk4xBjR75zBwDJFfEmS5k="
 }
